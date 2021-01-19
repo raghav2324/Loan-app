@@ -1,4 +1,7 @@
 # Loan-app
+
+The app is implemented in Java as well as Erlang.
+
 The	objective	is	to	model	a	simple	banking	environment.	Specifically,	There will	be	given	a	small	
 number	of	customers,	each	of	whom will	contact	a	set	of	banks	to	request	a	number	of	loans.	
 Eventually,	they	will	either	receive	all	of	the	money	they	require or	they	will	end	up	without	
@@ -21,3 +24,4 @@ An	example	banks.txt file	would	be:
 {rbc,800}.
 {bmo,700}.
 {ing,200}.
+
