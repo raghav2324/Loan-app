@@ -14,14 +14,14 @@ file	primitives	for	processing disk	files,	the	process is	not	quite	as	simple	as
 function.	So	the	two	files	will contain	records	that	are	already	pre-formatted.	In	other	words,	they	
 are ready	to	be	read	directly into	standard	Erlang	data	structures.	
 
-An example	customers.txt file	would	be:
-{jill,450}.
-{joe,157}.
-{bob,100}.
+An example	customers.txt file	would	be:\
+{jill,450}.\
+{joe,157}.\
+{bob,100}.\
 {sue,125}.
 
-An	example	banks.txt file	would	be:
-{rbc,800}.
-{bmo,700}.
+An	example	banks.txt file	would	be:\
+{rbc,800}.\
+{bmo,700}.\
 {ing,200}.
 
